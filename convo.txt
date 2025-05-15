@@ -1,0 +1,10 @@
+[00:01:23] John: I think we should move forward with the project.
+Sarah: Yes, I agree. The deadline is close.
+[00:02:10] Mike: Let’s finalize this by Monday.
+[00:03:05] John: Sounds good. I’ll prepare the report.
+Sarah: I can help with the presentation slides.
+[00:04:15] Mike: Don’t forget to review the budget.
+John: Thanks for the reminder.
+[00:05:30] Sarah: Should we schedule a follow-up meeting next week?
+Mike: Yes, Tuesday works for me.
+John: Perfect, I’ll send out the invite.
