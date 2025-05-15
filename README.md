@@ -24,7 +24,7 @@ There can be up to 30 different speakers.
 * `README.md` – this file
 * Approach and explanation included below
 
-![](demo.gif)
+![](Demo.gif)
 
 ### 🛠 Technologies Used
 
